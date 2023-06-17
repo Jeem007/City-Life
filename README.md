@@ -7,7 +7,11 @@ This is a simple city life project implemented using the GLUT (OpenGL Utility To
 - GL/glut.h
 - iostream
 
+## Features:
+    1. City Environment:
+    -  The project creates a 3D city environment, consisting of buildings, roads, parks, and other objects.
 
+    
 ## Features:
 The City Life project includes the following features:
 
