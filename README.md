@@ -10,6 +10,8 @@ This is a simple city life project implemented using the GLUT (OpenGL Utility To
 ## Features:
     1. City Environment:
     -  The project creates a 3D city environment, consisting of buildings, roads, parks, and other objects.
+    2. User Navigation
+    -  Users can navigate through the city using keyboard controls. They can move forward, backward, and sideways to explore different areas of the city.
 
     
 ## Features:
