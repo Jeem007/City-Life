@@ -11,15 +11,16 @@ This is a simple city life project implemented using the GLUT (OpenGL Utility To
 ## Features:
 The City Life project includes the following features:
 
-1. City Environment:
+1. City Environment :
 -  The project creates a 3D city environment, consisting of buildings, roads, parks, and other objects.
 
-2. User Navigation:
+2. User Navigation :
 -  Users can navigate through the city using keyboard controls. They can move forward, backward, and sideways to explore different areas of the city.
 
-3. Object Interaction:
+3. Object Interaction :
 -  Users can interact with certain objects in the city, such as vehicles, streetlights, and other interactive elements.
-4.Day-Night Cycle:
+  
+4. Day-Night Cycle:
 -  The project simulates a day-night cycle, dynamically changing the lighting and appearance of the city to create a realistic experience.
 
 5. Changing Seasons: 
